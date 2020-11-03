@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu{
+    background-color: red;
+}
+.paragrafoInicial{
+    font-size: 20px;
+}
+
+#formas-pagamento {
+    color: #ff0000;
+}
+
+.menu a {
+    
+color: white;
+text-decoration: none;
+width: 25%;
+margin: 120px;
+position: relative;
+top:-15px;
+
+}
+
+#apresentação {
+    font-size: 35px;
+    position: relative;
+    bottom: 70px;
+}
+
+#rodapé {
+    text-align: center;
+}
+
+.preço {
+    color: red;
+    font-size:25px;
+}
+
+.produtos {
+    display: inline-block;
+    width: 220px;
+    font-size:15px;
+    padding: 15px;
+    margin-left: 30px;
+   
+}
+.linha-produtos{
+cursor: pointer;
+}
+
+.cursorzoom{
+    cursor: zoom-in;
+}
+
+.lojas {
+    display: inline-block;
+    padding:120px;
+    position: relative;
+    top: -60px;
+}
+
+.formas-contatos {
+    font-size: 18px;
+    display: inline-block;
+    padding:220px;
+    position: relative;
+    top: -100px;
+    
+}
+
+#logo {
+    width: 25%;
+    margin: 120px;
+    position: relative;
+    top:0px;
+}
+
+
+.mensagem {
+    position: relative;
+    top:-250px;
+
+}
+
+.comentarios{
+    position: relative;
+    top:-400px; 
+}
